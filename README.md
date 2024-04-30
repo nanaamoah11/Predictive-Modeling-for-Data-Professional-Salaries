@@ -42,7 +42,7 @@ Contributions to the project are welcome! Feel free to submit pull requests, sug
 
 
 ### Contact Information
-For questions or collaboration opportunities, please contact [Nana Amoah](nanaamoah776@gmail.com).
+For questions or collaboration opportunities, please contact [Nana Amoah](mailto:nanaamoah776@gmail.com).
 
 ### Acknowledgements
 Special thanks to [kaggle.com] for providing the dataset used in this project.
