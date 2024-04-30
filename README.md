@@ -36,3 +36,15 @@ The model's performance is assessed using metrics such as mean absolute error (M
 The final trained model is deployed within a user-friendly Streamlit interface, enabling users to input their job-related information and obtain salary predictions seamlessly.
 
 The final deployed model can be accessed via the following link : https://huggingface.co/spaces/amissah1/CareerCompensaPro
+
+#### Contributing
+Contributions to the project are welcome! Feel free to submit pull requests, suggest improvements, or report any issues you encounter.
+
+
+### Contact Information
+For questions or collaboration opportunities, please contact [Nana Amoah](nanaamoah776@gmail.com).
+
+### Acknowledgements
+Special thanks to [kaggle.com] for providing the dataset used in this project.
+
+
